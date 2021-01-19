@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Call2Push", "Call2Push.csproj", "{74CF076E-0C22-4621-9F83-CD5981DD12A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74CF076E-0C22-4621-9F83-CD5981DD12A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CF076E-0C22-4621-9F83-CD5981DD12A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CF076E-0C22-4621-9F83-CD5981DD12A0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{74CF076E-0C22-4621-9F83-CD5981DD12A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CF076E-0C22-4621-9F83-CD5981DD12A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CF076E-0C22-4621-9F83-CD5981DD12A0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C5AD54-D71A-48D2-A92C-F13C7EE777EA}
+	EndGlobalSection
+EndGlobal
